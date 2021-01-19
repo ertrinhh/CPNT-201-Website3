@@ -577,4 +577,7 @@
 	{
 		float: right;
 	}
-
+	.stonkman-image {
+		width: 400px;
+		height: auto;
+	}
